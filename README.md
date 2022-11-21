@@ -1,15 +1,15 @@
 # Longest Monotonic Sub-Sequence
 
-This is my project for Algorithms and Data Structures subject on [PJAIT](https://pja.edu.pl/en/).
+This is my project for Algorithms and Data Structures subject at [PJAIT](https://pja.edu.pl/en/).
 
-The program must showing longest monotonic sub-sequence, its length and sum of its elements.
+The program must show longest monotonic sub-sequence, its length, and sum of its elements.
 
 ## Requirements:
 
 -   Time Complexity of Algorithm: O(n)
 -   Space Complexity of Algorithm: O(1)
--   The program must accept input data from the file, the location of which is given in the first parameter of the program invocation.
--   In the case of multiple sub-sequences of the same length, the one that comes first in the string should be considered.
+-   The program must accept input data from the file at the location given by the first parameter of the program invocation.
+-   In case of multiple sub-sequences of the same length, the one that comes first in the string should be considered.
 -   It is forbidden to use ready-made structures, such as ArrayList or StringBuilder. The exceptions are those structures that are used for I/O operations, the String class and methods on it.
 
 ## Usage:
